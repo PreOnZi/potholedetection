@@ -2,6 +2,8 @@
 
 Dataset+training code for YOLOv8 :
 <br>
+Training tutorial: https://learnopencv.com/train-yolov8-on-custom-dataset/
+<br>
 https://1drv.ms/f/s!Al4hHsulYpDKie0FL67JBsltKpA0zQ?e=ZHOvMY
 <br>
 Example P5 sketch using YOLOv8 sketch with a JSON file:
